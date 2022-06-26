@@ -23,7 +23,9 @@
   
   <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ryu120&theme=dracula&count_private=true"></div>
  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ryu120&show_icons=true&hide_border=true&theme=white"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu120&theme=white&hide=batchfile">
+ "**My GitHub Stats**
+
+![Ryu Git Stats](https://github-readme-stats.vercel.app/api?username=Ryu120&include_all_commits=true&count_private=true&theme=highcontrast)"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu120&theme=tokyonight&hide=batchfile">
   
   ![](https://visitor-badge.laobi.icu/badge?page_id=Ryu120)
   
