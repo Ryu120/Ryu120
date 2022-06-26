@@ -9,7 +9,7 @@
   **Information:**
 
 - 🔭 I’m currently working on  **Telegram Bots.**
-- 🌱 I’m currently learning  **C++, Python**
+- 🌱 I’m currently learning  **CSS, Python**
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 - 📫 Contact me at :  **ryugod9@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
