@@ -8,8 +8,8 @@
   
   **Information:**
 
-- 🔭 I’m currently working on  **Telegram Bots.**
-- 🌱 I’m currently learning  **CSS, Python**
+- 🔭 I’m currently working on  **Web Developinh.**
+- 🌱 I’m currently learning  **JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 - 📫 Contact me at :  **ryugod9@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
