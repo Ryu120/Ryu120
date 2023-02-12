@@ -1,4 +1,4 @@
-### Hola!! 👋 I AM RYU(ULTRA NOOB)
+### Hola!! 👋 I AM RYU
 
 <HTML>
 <BODY>
